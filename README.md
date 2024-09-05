@@ -1,3 +1,6 @@
+Hi, I'm Yongwoo, a software engineer based in Seoul, South Korea.<br>
+Here, I write about things I learn and find interesting.
+
 ### Work Experience
 
 [Lattice](https://www.linkedin.com/company/latticeholdings/) | November 2023 - Present (11 months+)
